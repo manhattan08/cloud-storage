@@ -1,0 +1,8 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://manhattan:rootroot@cloud-disk.mgq9sjr.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "D:\\work\\myProject\\cloud-disk\\server\\files",
+  "clientUrl": "http://localhost:3000",
+  "staticPath": "D:\\work\\myProject\\cloud-disk\\server\\static"
+}
